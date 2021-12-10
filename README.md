@@ -13,7 +13,7 @@ Postgre Sql
 ```
 ## Installation
 ```
-git checkout git@github.com:jshupilov/enlabs-be.git
+git clone git@github.com:jshupilov/enlabs-be.git
 Rename sample.env to .env
 Create local database: enlabs
 Create database user: enlabs
